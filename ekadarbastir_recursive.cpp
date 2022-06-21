@@ -12,7 +12,7 @@ int girilenSayiyaKadargoster(int x) {
 int main() {
     int sayi = 10;
     int sonuc = girilenSayiyaKadargoster(sayi);
-    
+    printf("%d",sonuc);
     
     return 0;
 }
